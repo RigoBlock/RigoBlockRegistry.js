@@ -1,8 +1,5 @@
 <img src="https://github.com/RigoBlock/PR/blob/master/rigoLogoSmall.png" width="200px" >
 ---
-# RigoBlockRegistry.js
-## global registry for decentralized asset management
-
 [RigoBlock][website-url] is a decentralized pools of tokens provider. A full description of the registry tools for decentralized asset management may be found in our [whitepaper][whitepaper-url].
 
 This repository contains a Javascript library that makes it easy to build other DApps that use the RigoBlock Registry contract.
